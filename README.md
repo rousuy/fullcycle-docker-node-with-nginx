@@ -38,8 +38,18 @@ make down
 ```
 or 
 
+Copy Node environment variables
+```
+cp contrib/node-env-sample ./node/.env
+```
+
+
 Docker compose CLI:
 ```
 docker compose up -d --build
 ```
 
+Access the Web Browser on address:
+```
+http://localhost:8080
+``` 
