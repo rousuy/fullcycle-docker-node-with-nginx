@@ -1,0 +1,5 @@
+HOST=mysql
+USER=root
+PASSWORD=root
+DATABASE=nodedb
+DB_PORT=3000
