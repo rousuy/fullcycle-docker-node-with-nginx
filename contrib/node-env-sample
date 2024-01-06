@@ -3,3 +3,4 @@ USER=root
 PASSWORD=root
 DATABASE=nodedb
 DB_PORT=3000
+NODE_INSTALL=true
