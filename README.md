@@ -39,10 +39,11 @@ make down
 or 
 
 Copy Node environment variables
+
+Open new terminal on project path
 ```
 cp contrib/node-env-sample ./node/.env
 ```
-
 
 Docker compose CLI:
 ```
